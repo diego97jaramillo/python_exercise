@@ -18,4 +18,4 @@ This is a simple console-based inventory system written in Python. It allows you
 Make sure you have Python 3 installed, then run the script:
 
 ```bash
-python main.py
+python prueba.py
